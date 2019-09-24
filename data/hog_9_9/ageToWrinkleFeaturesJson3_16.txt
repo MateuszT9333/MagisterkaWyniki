@@ -1,0 +1,6 @@
+{"age":5,"wrinkleFeature":11.649955,"filename":"5_1_3_20161220221703978.jpg"}
+{"age":5,"wrinkleFeature":12.655422,"filename":"5_1_4_20161221193811941.jpg"}
+{"age":6,"wrinkleFeature":13.056569,"filename":"6_0_0_20170110215331722.jpg"}
+{"age":6,"wrinkleFeature":12.724074,"filename":"6_0_3_20161220222811027.jpg"}
+{"age":6,"wrinkleFeature":14.340086,"filename":"6_0_3_20170110213739717.jpg"}
+{"age":6,"wrinkleFeature":11.651409,"filename":"6_1_0_20170109193722375.jpg"}

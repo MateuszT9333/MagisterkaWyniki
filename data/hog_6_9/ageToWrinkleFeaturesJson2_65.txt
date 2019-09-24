@@ -1,0 +1,9 @@
+{"age":85,"wrinkleFeature":13.213922,"filename":"85_1_0_20170110181944631.jpg"}
+{"age":85,"wrinkleFeature":12.866717,"filename":"85_1_0_20170110182111721.jpg"}
+{"age":85,"wrinkleFeature":12.22951,"filename":"85_1_0_20170110182139534.jpg"}
+{"age":85,"wrinkleFeature":12.705575,"filename":"85_1_0_20170110182428223.jpg"}
+{"age":85,"wrinkleFeature":12.523308,"filename":"85_1_0_20170110184001159.jpg"}
+{"age":85,"wrinkleFeature":12.870788,"filename":"85_1_0_20170110184025360.jpg"}
+{"age":85,"wrinkleFeature":13.107428,"filename":"85_1_0_20170110184040927.jpg"}
+{"age":85,"wrinkleFeature":13.82677,"filename":"85_1_2_20170110181640900.jpg"}
+{"age":89,"wrinkleFeature":13.353285,"filename":"89_1_0_20170110183446677.jpg"}

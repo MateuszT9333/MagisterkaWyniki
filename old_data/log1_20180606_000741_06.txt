@@ -1,0 +1,214 @@
+Subdirectory: 06
+WrinkleFeatureException: 1_1_4_20161221202124857.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 1_1_4_20161221202135073.jpg: No face detected.
+WrinkleFeatureException: 1_1_4_20161221202153553.jpg: No face detected.
+WrinkleFeatureException: 1_1_4_20161221202159241.jpg: No face detected.
+Exception: Path: 1_1_4_20161221202254377.jpg
+WrinkleFeatureException: 1_1_4_20161221202528425.jpg: No face detected.
+WrinkleFeatureException: 1_1_4_20161221202604641.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 1_1_4_20161221202912889.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 1_1_4_20161223225921227.jpg: No face detected.
+WrinkleFeatureException: 1_1_4_20161223231311515.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 1_1_4_20170103202738552.jpg: Invalid number of detected eyes.
+WrinkleFeatureException: 1_1_4_20170103204825447.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 1_1_4_20170103204831032.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 1_1_4_20170103205129266.jpg: Invalid number of detected eyes.
+WrinkleFeatureException: 1_1_4_20170103205134402.jpg: No face detected.
+WrinkleFeatureException: 1_1_4_20170103210113314.jpg: No face detected.
+WrinkleFeatureException: 1_1_4_20170103210736044.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 1_1_4_20170103212116187.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 1_1_4_20170103212217155.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 1_1_4_20170103212653844.jpg: No face detected.
+WrinkleFeatureException: 1_1_4_20170103213044557.jpg: No face detected.
+WrinkleFeatureException: 1_1_4_20170109191515501.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 1_1_4_20170109193346573.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 1_1_4_20170109193938953.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 1_1_4_20170109194502921.jpg: No face detected.
+WrinkleFeatureException: 2_0_0_20161219154008997.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_0_20161219154439741.jpg: No face detected.
+WrinkleFeatureException: 2_0_0_20161219154623509.jpg: No face detected.
+WrinkleFeatureException: 2_0_0_20161219160246293.jpg: No face detected.
+WrinkleFeatureException: 2_0_0_20161219160615893.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_0_20161219160731126.jpg: No face detected.
+WrinkleFeatureException: 2_0_0_20161219161216590.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_0_20161219161714486.jpg: No face detected.
+WrinkleFeatureException: 2_0_0_20161219162259070.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_0_20161219162301430.jpg: No face detected.
+WrinkleFeatureException: 2_0_0_20161219162303390.jpg: No face detected.
+WrinkleFeatureException: 2_0_0_20161219163517871.jpg: No face detected.
+WrinkleFeatureException: 2_0_0_20161219163848775.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_0_20161219204329404.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_0_20170103175540113.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_0_20170103202750479.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_0_20170103202801736.jpg: Invalid number of detected nose or eye pair.
+Exception: Path: 2_0_0_20170103205800494.jpg
+WrinkleFeatureException: 2_0_0_20170104011011896.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_0_20170109190947004.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_0_20170109191008066.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_0_20170109191019906.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_0_20170109191327945.jpg: Invalid number of detected nose or eye pair.
+Success!: Path: 2_0_0_20170109193359075.jpg: (age: 2 | feature: 0,031975)
+Success!: Path: 2_0_0_20170109193935916.jpg: (age: 2 | feature: 0,241113)
+WrinkleFeatureException: 2_0_0_20170109194104628.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_0_20170109194439365.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_0_20170110205345455.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_0_20170110211457583.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_0_20170110211501002.jpg: Invalid number of detected eyes.
+WrinkleFeatureException: 2_0_0_20170110211504184.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_0_20170110211511626.jpg: Invalid number of detected nose or eye pair.
+Success!: Path: 2_0_0_20170110212644094.jpg: (age: 2 | feature: 0,089125)
+WrinkleFeatureException: 2_0_0_20170110212710755.jpg: Invalid number of detected eyes.
+Success!: Path: 2_0_0_20170110212802305.jpg: (age: 2 | feature: 0,024431)
+WrinkleFeatureException: 2_0_0_20170110212816271.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_0_20170110212819281.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_0_20170110212852343.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_0_20170110212901886.jpg: No face detected.
+Success!: Path: 2_0_0_20170110212905173.jpg: (age: 2 | feature: 0,092388)
+Success!: Path: 2_0_0_20170110213022114.jpg: (age: 2 | feature: 0,021409)
+WrinkleFeatureException: 2_0_0_20170110213051007.jpg: Invalid number of detected eyes.
+WrinkleFeatureException: 2_0_0_20170110213103595.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_0_20170110213128362.jpg: Invalid number of detected nose or eye pair.
+Success!: Path: 2_0_0_20170110213143544.jpg: (age: 2 | feature: 0,009295)
+WrinkleFeatureException: 2_0_0_20170110213146269.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_0_20170110213208884.jpg: No face detected.
+WrinkleFeatureException: 2_0_0_20170110213227212.jpg: Invalid number of detected eyes.
+WrinkleFeatureException: 2_0_0_20170110213234033.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_0_20170110213247257.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_0_20170110213250253.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_0_20170110213349752.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_0_20170110213507337.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_0_20170110213639642.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_0_20170110213705227.jpg: No face detected.
+Success!: Path: 2_0_0_20170110224316546.jpg: (age: 2 | feature: 0,162140)
+WrinkleFeatureException: 2_0_0_20170110224730142.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_0_20170110225218837.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_0_20170110225322822.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_1_20170110205407227.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_1_20170110213401217.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_1_20170110213721101.jpg: Invalid number of detected eyes.
+WrinkleFeatureException: 2_0_1_20170110213724790.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219140712432.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219140845808.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219140905480.jpg: No face detected.
+WrinkleFeatureException: 2_0_2_20161219141143184.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219141147608.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219141152081.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219141211674.jpg: No face detected.
+WrinkleFeatureException: 2_0_2_20161219141236632.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219141245497.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219141643337.jpg: No face detected.
+WrinkleFeatureException: 2_0_2_20161219141647272.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219141650121.jpg: No face detected.
+WrinkleFeatureException: 2_0_2_20161219142207513.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219142243497.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219142258121.jpg: No face detected.
+WrinkleFeatureException: 2_0_2_20161219142326480.jpg: No face detected.
+Exception: Path: 2_0_2_20161219142335801.jpg
+WrinkleFeatureException: 2_0_2_20161219142522753.jpg: No face detected.
+WrinkleFeatureException: 2_0_2_20161219142704833.jpg: No face detected.
+WrinkleFeatureException: 2_0_2_20161219151045020.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219151144107.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219151233595.jpg: No face detected.
+WrinkleFeatureException: 2_0_2_20161219151420756.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219151454787.jpg: No face detected.
+WrinkleFeatureException: 2_0_2_20161219151847379.jpg: No face detected.
+WrinkleFeatureException: 2_0_2_20161219151902683.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219152009555.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219152914700.jpg: No face detected.
+WrinkleFeatureException: 2_0_2_20161219154003764.jpg: No face detected.
+WrinkleFeatureException: 2_0_2_20161219154627053.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219155553597.jpg: No face detected.
+WrinkleFeatureException: 2_0_2_20161219155636293.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219155959781.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219160057853.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219160916782.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219160919734.jpg: No face detected.
+WrinkleFeatureException: 2_0_2_20161219161037494.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219161046894.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219161049398.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219161204614.jpg: No face detected.
+WrinkleFeatureException: 2_0_2_20161219161440095.jpg: No face detected.
+WrinkleFeatureException: 2_0_2_20161219161726454.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219161734262.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219162132342.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219162317542.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219162343270.jpg: No face detected.
+WrinkleFeatureException: 2_0_2_20161219162357438.jpg: No face detected.
+WrinkleFeatureException: 2_0_2_20161219162359990.jpg: No face detected.
+WrinkleFeatureException: 2_0_2_20161219162403159.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219162438366.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219162504886.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219162614078.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219163415222.jpg: No face detected.
+WrinkleFeatureException: 2_0_2_20161219163447671.jpg: No face detected.
+WrinkleFeatureException: 2_0_2_20161219190009084.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219190245843.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219190253835.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219190509034.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219190604355.jpg: No face detected.
+WrinkleFeatureException: 2_0_2_20161219190735147.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219190941315.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219191202354.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219192150665.jpg: No face detected.
+WrinkleFeatureException: 2_0_2_20161219192307618.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219194123523.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219194420523.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219194455147.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219194834811.jpg: No face detected.
+WrinkleFeatureException: 2_0_2_20161219194955267.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219195037083.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219195707820.jpg: No face detected.
+WrinkleFeatureException: 2_0_2_20161219195745171.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219200225291.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219200316835.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219200442347.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219201235452.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219202530668.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219202639225.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219202644971.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219202702788.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219203047420.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219203126700.jpg: No face detected.
+WrinkleFeatureException: 2_0_2_20161219203358108.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219203736244.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219203828132.jpg: To much faces for training.
+WrinkleFeatureException: 2_0_2_20161219203844252.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219204037716.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219204916820.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219204927996.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219205134348.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219205542789.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219205739724.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219211219902.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219211913310.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219212013262.jpg: No face detected.
+WrinkleFeatureException: 2_0_2_20161219212035798.jpg: No face detected.
+WrinkleFeatureException: 2_0_2_20161219212235749.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219212329726.jpg: No face detected.
+WrinkleFeatureException: 2_0_2_20161219212403166.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219212618326.jpg: No face detected.
+WrinkleFeatureException: 2_0_2_20161219221701671.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219221937375.jpg: To much faces for training.
+WrinkleFeatureException: 2_0_2_20161219222006136.jpg: No face detected.
+WrinkleFeatureException: 2_0_2_20161219222109319.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219222111287.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219222203111.jpg: No face detected.
+WrinkleFeatureException: 2_0_2_20161219222215999.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219222236983.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20161219222714623.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_2_20170110212538628.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_3_20161219221730658.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_3_20161219224627007.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_3_20161219224848808.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_3_20161219224850392.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_3_20161219224852040.jpg: No face detected.
+WrinkleFeatureException: 2_0_3_20161219224928327.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_3_20161219225137296.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_3_20161219225201960.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 2_0_3_20161219225228376.jpg: Invalid number of detected nose or eye pair.
+
+
+Correctly processed images: 8
+Incorrectly processed images: 199
+Sum of processed images: 207
+Execution time: 44.661 s

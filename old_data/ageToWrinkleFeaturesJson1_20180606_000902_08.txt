@@ -1,0 +1,15 @@
+{"age":3,"wrinkleFeature":0.03781312}
+{"age":3,"wrinkleFeature":0.14012673}
+{"age":3,"wrinkleFeature":0.01147671}
+{"age":3,"wrinkleFeature":0.013941439}
+{"age":3,"wrinkleFeature":0.06089282}
+{"age":4,"wrinkleFeature":0.09170432}
+{"age":4,"wrinkleFeature":0.087883145}
+{"age":4,"wrinkleFeature":0.023932828}
+{"age":4,"wrinkleFeature":0.04028133}
+{"age":4,"wrinkleFeature":0.023833169}
+{"age":4,"wrinkleFeature":0.1445798}
+{"age":4,"wrinkleFeature":0.103504844}
+{"age":4,"wrinkleFeature":0.008987417}
+{"age":4,"wrinkleFeature":0.033242505}
+{"age":4,"wrinkleFeature":0.09055267}

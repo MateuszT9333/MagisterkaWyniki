@@ -1,0 +1,4 @@
+{"age":1,"wrinkleFeature":9.920409,"filename":"1_1_0_20170109191709485.jpg"}
+{"age":1,"wrinkleFeature":10.440727,"filename":"1_1_0_20170109191835969.jpg"}
+{"age":1,"wrinkleFeature":10.1311655,"filename":"1_1_0_20170109192159501.jpg"}
+{"age":1,"wrinkleFeature":9.35323,"filename":"1_1_0_20170109193408973.jpg"}

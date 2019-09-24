@@ -1,0 +1,6 @@
+{"age":3,"wrinkleFeature":0.03781312}
+{"age":3,"wrinkleFeature":0.14012673}
+{"age":3,"wrinkleFeature":0.01147671}
+{"age":3,"wrinkleFeature":0.014244426}
+{"age":3,"wrinkleFeature":0.06089282}
+{"age":4,"wrinkleFeature":0.09170432}

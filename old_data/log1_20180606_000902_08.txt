@@ -1,0 +1,226 @@
+Subdirectory: 08
+WrinkleFeatureException: 3_1_3_20161219230121032.jpg: No face detected.
+WrinkleFeatureException: 3_1_3_20161219230123328.jpg: No face detected.
+WrinkleFeatureException: 3_1_3_20161219230125137.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 3_1_3_20161219230204712.jpg: No face detected.
+WrinkleFeatureException: 3_1_3_20161219230214072.jpg: No face detected.
+WrinkleFeatureException: 3_1_3_20161219230259272.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 3_1_3_20161219230328993.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 3_1_3_20161219230521112.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 3_1_3_20161220145428645.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 3_1_3_20161220220351161.jpg: No face detected.
+WrinkleFeatureException: 3_1_3_20161220220451762.jpg: Invalid number of detected nose or eye pair.
+Success!: Path: 3_1_3_20161220220619722.jpg: (age: 3 | feature: 0,037813)
+Success!: Path: 3_1_3_20161220220625842.jpg: (age: 3 | feature: 0,140127)
+WrinkleFeatureException: 3_1_3_20161220220632050.jpg: Invalid number of detected eyes.
+WrinkleFeatureException: 3_1_3_20161220222009699.jpg: No face detected.
+WrinkleFeatureException: 3_1_4_20161221192709141.jpg: No face detected.
+Exception: Path: 3_1_4_20161221192845405.jpg
+Success!: Path: 3_1_4_20161221192908158.jpg: (age: 3 | feature: 0,011477)
+Success!: Path: 3_1_4_20161221192909421.jpg: (age: 3 | feature: 0,013941)
+WrinkleFeatureException: 3_1_4_20161221193144389.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 3_1_4_20161221193402694.jpg: To much faces for training.
+WrinkleFeatureException: 3_1_4_20161221193538039.jpg: No face detected.
+WrinkleFeatureException: 3_1_4_20161221195312639.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 3_1_4_20161221201429017.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 3_1_4_20161221201441793.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 3_1_4_20161221202450265.jpg: No face detected.
+WrinkleFeatureException: 3_1_4_20161221202539569.jpg: No face detected.
+Success!: Path: 3_1_4_20161223231741788.jpg: (age: 3 | feature: 0,060893)
+WrinkleFeatureException: 3_1_4_20170103205114064.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 3_1_4_20170103205816397.jpg: No face detected.
+WrinkleFeatureException: 3_1_4_20170103210847515.jpg: To much faces for training.
+WrinkleFeatureException: 3_1_4_20170103212108940.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 3_1_4_20170103212708915.jpg: No face detected.
+WrinkleFeatureException: 3_1_4_20170103213251308.jpg: Invalid number of detected nose or eye pair.
+Exception: Path: 3_1_4_20170103234200795.jpg
+WrinkleFeatureException: 3_1_4_20170104005006111.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 4_0_0_20161219192808843.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 4_0_0_20161219203817325.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 4_0_0_20161219204117636.jpg: Invalid number of detected nose or eye pair.
+Success!: Path: 4_0_0_20161220220926474.jpg: (age: 4 | feature: 0,091704)
+Success!: Path: 4_0_0_20170104010859393.jpg: (age: 4 | feature: 0,087883)
+WrinkleFeatureException: 4_0_0_20170105183540567.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 4_0_0_20170109191251137.jpg: Invalid number of detected eyes.
+Success!: Path: 4_0_0_20170109191458548.jpg: (age: 4 | feature: 0,023933)
+WrinkleFeatureException: 4_0_0_20170109192342033.jpg: To much faces for training.
+Success!: Path: 4_0_0_20170110205349508.jpg: (age: 4 | feature: 0,040281)
+WrinkleFeatureException: 4_0_0_20170110205352445.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 4_0_0_20170110205414483.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 4_0_0_20170110205422145.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 4_0_0_20170110211454141.jpg: No face detected.
+WrinkleFeatureException: 4_0_0_20170110212545618.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 4_0_0_20170110212621808.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 4_0_0_20170110212814225.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 4_0_0_20170110212844605.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 4_0_0_20170110212940437.jpg: No face detected.
+WrinkleFeatureException: 4_0_0_20170110213033450.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 4_0_0_20170110213121589.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 4_0_0_20170110213151504.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 4_0_0_20170110213211374.jpg: No face detected.
+WrinkleFeatureException: 4_0_0_20170110213229910.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 4_0_0_20170110213253207.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 4_0_0_20170110213307248.jpg: Invalid number of detected eyes.
+WrinkleFeatureException: 4_0_0_20170110213317110.jpg: To much faces for training.
+Success!: Path: 4_0_0_20170110213325187.jpg: (age: 4 | feature: 0,023833)
+WrinkleFeatureException: 4_0_0_20170110213408453.jpg: Invalid number of detected nose or eye pair.
+Exception: Path: 4_0_0_20170110213441609.jpg
+WrinkleFeatureException: 4_0_0_20170110213500051.jpg: Invalid number of detected eyes.
+WrinkleFeatureException: 4_0_0_20170110213510791.jpg: No face detected.
+WrinkleFeatureException: 4_0_0_20170110213526716.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 4_0_0_20170110213528845.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 4_0_0_20170110213530901.jpg: To much faces for training.
+Success!: Path: 4_0_0_20170110213533405.jpg: (age: 4 | feature: 0,144580)
+WrinkleFeatureException: 4_0_0_20170110213536030.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 4_0_0_20170110213539347.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 4_0_0_20170110213542396.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 4_0_0_20170110213544876.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 4_0_0_20170110213547600.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 4_0_0_20170110213557125.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 4_0_0_20170110213635871.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 4_0_0_20170110224321631.jpg: Invalid number of detected eyes.
+Exception: Path: 4_0_0_20170110224413618.jpg
+WrinkleFeatureException: 4_0_0_20170110224617729.jpg: Invalid number of detected nose or eye pair.
+Exception: Path: 4_0_0_20170110224705396.jpg
+Exception: Path: 4_0_0_20170110224817102.jpg
+Success!: Path: 4_0_0_20170110225200150.jpg: (age: 4 | feature: 0,103505)
+Success!: Path: 4_0_0_20170110232756133.jpg: (age: 4 | feature: 0,008987)
+WrinkleFeatureException: 4_0_1_20161219230428976.jpg: Invalid number of detected nose or eye pair.
+Success!: Path: 4_0_1_20170104010848776.jpg: (age: 4 | feature: 0,033243)
+WrinkleFeatureException: 4_0_1_20170110213311678.jpg: To much faces for training.
+WrinkleFeatureException: 4_0_1_20170110213621008.jpg: Invalid number of detected nose or eye pair.
+Success!: Path: 4_0_1_20170110213631827.jpg: (age: 4 | feature: 0,090553)
+WrinkleFeatureException: 4_0_2_20161219140938368.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 4_0_2_20161219141105897.jpg: No face detected.
+WrinkleFeatureException: 4_0_2_20161219141202384.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 4_0_2_20161219141410544.jpg: No face detected.
+WrinkleFeatureException: 4_0_2_20161219153822276.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 4_0_2_20161219154925917.jpg: No face detected.
+WrinkleFeatureException: 4_0_2_20161219160936862.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 4_0_2_20161219160939189.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 4_0_2_20161219162919806.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 4_0_2_20161219164003879.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 4_0_2_20161219192408395.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 4_0_2_20161219194114267.jpg: Invalid number of detected nose or eye pair.
+WrinkleFeatureException: 4_0_2_20161219194118187.jpg: Invalid number of detected nose or eye pair.
+Exception: Path: 4_0_2_20161219194145563.jpg
+Exception: Path: 4_0_2_20161219194148499.jpg
+Exception: Path: 4_0_2_20161219195053667.jpg
+Exception: Path: 4_0_2_20161219200024691.jpg
+Exception: Path: 4_0_2_20161219200030036.jpg
+Exception: Path: 4_0_2_20161219201254277.jpg
+Exception: Path: 4_0_2_20161219211434893.jpg
+Exception: Path: 4_0_2_20161219221851247.jpg
+Exception: Path: 4_0_2_20161220220440489.jpg
+Exception: Path: 4_0_2_20170103210552842.jpg
+Exception: Path: 4_0_2_20170110211530774.jpg
+Exception: Path: 4_0_2_20170110212945664.jpg
+Exception: Path: 4_0_2_20170110213515094.jpg
+Exception: Path: 4_0_2_20170110213551318.jpg
+Exception: Path: 4_0_2_20170110220021011.jpg
+Exception: Path: 4_0_2_20170110225135002.jpg
+Exception: Path: 4_0_3_20161219230501650.jpg
+Exception: Path: 4_0_3_20161220145136351.jpg
+Exception: Path: 4_0_3_20161220145148791.jpg
+Exception: Path: 4_0_3_20161220145757599.jpg
+Exception: Path: 4_0_3_20161220220726266.jpg
+Exception: Path: 4_0_3_20161220220738826.jpg
+Exception: Path: 4_0_3_20161220220741730.jpg
+Exception: Path: 4_0_3_20161220220742914.jpg
+Exception: Path: 4_0_3_20161220220754249.jpg
+Exception: Path: 4_0_3_20161220220759066.jpg
+Exception: Path: 4_0_3_20161220220934786.jpg
+Exception: Path: 4_0_3_20161220221755018.jpg
+Exception: Path: 4_0_3_20161220222705570.jpg
+Exception: Path: 4_0_3_20161220222803227.jpg
+Exception: Path: 4_0_3_20161220223111195.jpg
+Exception: Path: 4_0_3_20170109131758363.jpg
+Exception: Path: 4_0_4_20161221192742413.jpg
+Exception: Path: 4_0_4_20161221193320742.jpg
+Exception: Path: 4_0_4_20161221193322159.jpg
+Exception: Path: 4_0_4_20161221195021183.jpg
+Exception: Path: 4_0_4_20161221202233593.jpg
+Exception: Path: 4_0_4_20161221202651241.jpg
+Exception: Path: 4_1_0_20161219153720476.jpg
+Exception: Path: 4_1_0_20161219154932021.jpg
+Exception: Path: 4_1_0_20161219160558133.jpg
+Exception: Path: 4_1_0_20161219201246716.jpg
+Exception: Path: 4_1_0_20161219225102680.jpg
+Exception: Path: 4_1_0_20161219230409176.jpg
+Exception: Path: 4_1_0_20161220220732418.jpg
+Exception: Path: 4_1_0_20170103181119880.jpg
+Exception: Path: 4_1_0_20170103212153219.jpg
+Exception: Path: 4_1_0_20170103223021271.jpg
+Exception: Path: 4_1_0_20170104005345015.jpg
+Exception: Path: 4_1_0_20170104005821656.jpg
+Exception: Path: 4_1_0_20170109190824547.jpg
+Exception: Path: 4_1_0_20170109190923998.jpg
+Exception: Path: 4_1_0_20170109190928456.jpg
+Exception: Path: 4_1_0_20170109191135825.jpg
+Exception: Path: 4_1_0_20170109191152071.jpg
+Exception: Path: 4_1_0_20170109191155398.jpg
+Exception: Path: 4_1_0_20170109191240933.jpg
+Exception: Path: 4_1_0_20170109191412927.jpg
+Exception: Path: 4_1_0_20170109191952579.jpg
+Exception: Path: 4_1_0_20170109192031317.jpg
+Exception: Path: 4_1_0_20170109192110040.jpg
+Exception: Path: 4_1_0_20170109192248839.jpg
+Exception: Path: 4_1_0_20170109192308345.jpg
+Exception: Path: 4_1_0_20170109192357612.jpg
+Exception: Path: 4_1_0_20170109192418427.jpg
+Exception: Path: 4_1_0_20170109192424440.jpg
+Exception: Path: 4_1_0_20170109192714731.jpg
+Exception: Path: 4_1_0_20170109192742824.jpg
+Exception: Path: 4_1_0_20170109192825550.jpg
+Exception: Path: 4_1_0_20170109192828745.jpg
+Exception: Path: 4_1_0_20170109192831145.jpg
+Exception: Path: 4_1_0_20170109193059401.jpg
+Exception: Path: 4_1_0_20170109193102653.jpg
+Exception: Path: 4_1_0_20170109193119036.jpg
+Exception: Path: 4_1_0_20170109193124855.jpg
+Exception: Path: 4_1_0_20170109193342601.jpg
+Exception: Path: 4_1_0_20170109193404863.jpg
+Exception: Path: 4_1_0_20170109193436148.jpg
+Exception: Path: 4_1_0_20170109193519993.jpg
+Exception: Path: 4_1_0_20170109193547686.jpg
+Exception: Path: 4_1_0_20170109193813519.jpg
+Exception: Path: 4_1_0_20170109193854934.jpg
+Exception: Path: 4_1_0_20170109194222722.jpg
+Exception: Path: 4_1_0_20170109194429005.jpg
+Exception: Path: 4_1_0_20170109201102915.jpg
+Exception: Path: 4_1_0_20170109201611941.jpg
+Exception: Path: 4_1_0_20170109202352144.jpg
+Exception: Path: 4_1_0_20170109204331818.jpg
+Exception: Path: 4_1_0_20170109204913999.jpg
+Exception: Path: 4_1_0_20170110213257550.jpg
+Exception: Path: 4_1_0_20170110213431280.jpg
+Exception: Path: 4_1_1_20161219160210758.jpg
+Exception: Path: 4_1_1_20161219160213517.jpg
+Exception: Path: 4_1_1_20161219160501453.jpg
+Exception: Path: 4_1_1_20170109194520772.jpg
+Exception: Path: 4_1_1_20170109194523891.jpg
+Exception: Path: 4_1_1_20170109194530016.jpg
+Exception: Path: 4_1_1_20170109194538070.jpg
+Exception: Path: 4_1_1_20170109194638149.jpg
+Exception: Path: 4_1_1_20170109194656449.jpg
+Exception: Path: 4_1_1_20170110213220193.jpg
+Exception: Path: 4_1_2_20161219140718600.jpg
+Exception: Path: 4_1_2_20161219141028256.jpg
+Exception: Path: 4_1_2_20161219141110241.jpg
+Exception: Path: 4_1_2_20161219141536392.jpg
+Exception: Path: 4_1_2_20161219141750993.jpg
+Exception: Path: 4_1_2_20161219141808855.jpg
+Exception: Path: 4_1_2_20161219141811089.jpg
+Exception: Path: 4_1_2_20161219141829689.jpg
+Exception: Path: 4_1_2_20161219141837833.jpg
+Exception: Path: 4_1_2_20161219141921961.jpg
+Exception: Path: 4_1_2_20161219142227369.jpg
+Exception: Path: 4_1_2_20161219142249665.jpg
+Exception: Path: 4_1_2_20161219142601553.jpg
+Exception: Path: 4_1_2_20161219142735921.jpg
+
+
+Correctly processed images: 15
+Incorrectly processed images: 204
+Sum of processed images: 219
+Execution time: 41.858 s
